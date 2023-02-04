@@ -1,8 +1,12 @@
 ## US visa appointment (date) scanner
 
+Get your US visa appointment date faster. Automatically look for an earlier date and get notified.
+
 This package checks the availability of dates for US Visa interview at official Canadian website for interview scheduling.
 
 The test is executed on Cypress framework using Chrome browser. Shell script is provided to iterate the cycle until a desired date is found.
+
+NOTE: only works on Mac with NPM and Chrom installed.
 
 ---
 
