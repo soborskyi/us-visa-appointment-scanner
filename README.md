@@ -1,4 +1,6 @@
-### This package checks the availability of dates for US Visa interview at official Canadian website for interview scheduling.
+## US visa appointment (date) scanner
+
+This package checks the availability of dates for US Visa interview at official Canadian website for interview scheduling.
 
 The test is executed on Cypress framework using Chrome browser. Shell script is provided to iterate the cycle until a desired date is found.
 
@@ -43,5 +45,6 @@ Select the test spec in specs/check-availability.cy.js.
 ---
 
 Run one time command in terminal:
+
 `npx cypress run --headed --browser chrome --spec specs/check-availability.cy.js --env email=?,password=?,date=02/20/2023`
 
