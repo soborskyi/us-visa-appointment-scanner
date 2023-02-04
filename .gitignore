@@ -1,0 +1,5 @@
+cypress.env.json
+cypress/
+package-lock.json
+node_modules/
+

@@ -8,12 +8,10 @@ The test is executed on Cypress framework using Chrome browser. Shell script is 
 
 1. Clone this repo.
 
-2. Initiate NPM project:
-`npm init`
-Enter your preferences or just hit enter.
+2. Install NPM.
 
 3. Install Cypress using NPM:
-`npm install cypress`
+`npm i`
 
 ---
 
